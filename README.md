@@ -1,6 +1,6 @@
 # Predictor
 
-A new Fluter project.
+A new Flutter project.
 
 ## Getting Started
 
