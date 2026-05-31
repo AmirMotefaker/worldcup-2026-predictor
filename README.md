@@ -1,4 +1,4 @@
-# predictor
+# Predictor
 
 A new Flutter project.
 
